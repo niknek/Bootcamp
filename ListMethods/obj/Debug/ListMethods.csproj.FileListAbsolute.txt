@@ -1,0 +1,7 @@
+C:\Users\user\source\40sLaw\Recap\Basics\ListMethods\bin\Debug\ListMethods.exe.config
+C:\Users\user\source\40sLaw\Recap\Basics\ListMethods\bin\Debug\ListMethods.exe
+C:\Users\user\source\40sLaw\Recap\Basics\ListMethods\bin\Debug\ListMethods.pdb
+C:\Users\user\source\40sLaw\Recap\Basics\ListMethods\obj\Debug\ListMethods.csproj.CoreCompileInputs.cache
+C:\Users\user\source\40sLaw\Recap\Basics\ListMethods\obj\Debug\ListMethods.exe
+C:\Users\user\source\40sLaw\Recap\Basics\ListMethods\obj\Debug\ListMethods.pdb
+C:\Users\user\source\40sLaw\Recap\Basics\ListMethods\obj\Debug\ListMethods.csprojAssemblyReference.cache
